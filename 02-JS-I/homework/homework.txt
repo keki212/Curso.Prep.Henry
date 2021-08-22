@@ -1,0 +1,14 @@
+* Variables
+Una variable es como un cajon que guardamos algo y luego cuando lo necesitemos lo sacamos del cajon para ser utilizado.
+
+* Strings
+Las cadenas son tipos de datos que usamos para representar pedazos de texto, siempre van entre comillas sean sencillas o dobles.
+
+* Funciones (argumentos, `return`)
+Son partes del codigo que se usan para hacer ciertos trabajos o partes de un trabajo en un sistema, los argumentos son datos que se pasan a la funcion los cuales debe tener encuenta para ejecuta la funcion, el return es lo que debe devolver la funcion luego de ejecutarse.
+
+* Declaraciones `if`
+Es una declaracion que se usa para saber si se cumple una condicion, si se cumple se hace algo, si no se cumple se hace otra cosas o no se hace nada
+
+* Valores booleanos (`true`, `false`)
+Son valores que significar cierto o falso, correcto o incorrecto, 
