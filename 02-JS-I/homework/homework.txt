@@ -11,4 +11,4 @@ Son partes del codigo que se usan para hacer ciertos trabajos o partes de un tra
 Es una declaracion que se usa para saber si se cumple una condicion, si se cumple se hace algo, si no se cumple se hace otra cosas o no se hace nada
 
 * Valores booleanos (`true`, `false`)
-Son valores que significar cierto o falso, correcto o incorrecto, 
+Son valores que significan cierto o falso, correcto o incorrecto, 
